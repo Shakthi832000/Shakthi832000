@@ -1,4 +1,31 @@
-# 💫 About Me:
+# 👋 Hi, I'm Shakthi Elumalai
+
+I am a passionate **Web Developer** with 6 months of experience specializing in **HTML**, **CSS**, **React.js**, **NPM**, and **Express.js**. I love turning ideas into visually appealing, user-friendly, and efficient web applications.
+
+## 🛠️ Technologies I Work With
+- **Frontend**: HTML, CSS, React.js
+- **Backend**: Express.js, Node.js
+- **Package Management**: NPM
+- **Tools**: Git, VS Code
+
+## 🌟 What I Love to Build
+- Responsive and interactive web applications
+- Clean and modular UI components
+- Scalable and performance-oriented backend.
+
+
+## 🌱 Currently Learning
+I am currently enhancing my skills in:
+- Advanced React patterns (Hooks, Context API)
+- Backend optimizations with Express.js and MongoDB
+
+## 💡 Fun Fact
+When I'm not coding, I enjoy exploring new tech blogs or solving puzzles.
+
+  
+  
+  
+  # 💫 About Me:
 web developer and frontend developer 
 
 
